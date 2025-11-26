@@ -1,6 +1,6 @@
 ## Instagram Post Automation Script
 
-python
+
 # instagram_post.py
 import requests
 import json
